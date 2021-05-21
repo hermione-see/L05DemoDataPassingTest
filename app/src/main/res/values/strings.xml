@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">L05 Demo Data Passing Test</string>
+    <string name="passChar">pass character value to 2nd activity</string>
+    <string name="passInt">pass int value to 2nd activity</string>
+    <string name="passDouble">PASS DOUBLE VALUE TO 2ND ACTIVITY</string>
+</resources>
